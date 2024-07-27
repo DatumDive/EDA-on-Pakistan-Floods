@@ -206,20 +206,4 @@ economy and our local market as we would struggle to fill in the deficit it woul
 the damage done to our agriculture.
 
 ## Author:
-- Muhammad Ahmed Suhail
-
-## Acknowledgments:
-- This project was completed as an assignment for **Data Analysis and Visualization** at FAST - NUCES Islamabad.
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Muhammad Ahmed Suhail ( Founder and CEO DatumDive )
